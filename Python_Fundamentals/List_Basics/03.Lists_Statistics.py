@@ -13,11 +13,3 @@ for n in range(n):
 print(positives)
 print(negatives)
 print(f"Count of positives: {len(positives)}. Sum of negatives: {sum(negatives)}")
-
-
-
-
-
-
-
-
