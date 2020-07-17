@@ -9,6 +9,3 @@ save = [tail, body, head]
 
 correct_animal = save[::-1]
 print(correct_animal)
-
-
-
