@@ -1,4 +1,3 @@
-
 text = input()
 while True:
     spl = input().split(">>>")
