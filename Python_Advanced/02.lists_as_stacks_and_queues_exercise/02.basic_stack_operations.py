@@ -14,7 +14,3 @@ else:
         print(0)
     else:
         print(min(elements))
-
-
-
-
