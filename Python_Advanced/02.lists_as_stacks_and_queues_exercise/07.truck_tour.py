@@ -22,9 +22,3 @@ for i in range(n):
         print(i)
         break
     pumps.append(pumps.popleft())
-
-
-
-
-
-
