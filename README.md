@@ -1,1 +1,1 @@
-# Projects-in-SoftUni
+# projects-softuni
