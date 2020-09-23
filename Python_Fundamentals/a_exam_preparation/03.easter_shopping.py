@@ -32,7 +32,7 @@ for i in range(1, count + 1):
         if first >= 0 and second >= 0 and first <= len(shops) and second <= len(shops):
             idxx = shops[first]
             idx2 = shops[second]
-            s = shops[first], shops[second] = shops[second], shops[first]  # СМЕНЯ МЕСТАА НА ИМЕНА В ЛИСТА
+            s = shops[first], shops[second] = shops[second], shops[first] 
             # rem = shops[shops.index(idx2)], shops[shops.index(idxx)] = shops[shops.index(idxx)], shops[shops.index(idx2)]
 
         else:
