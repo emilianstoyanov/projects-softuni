@@ -17,9 +17,6 @@ for (key, value) in dictionary.items():
 
 
 
-
-
-
 # def solve(words_str):
 #     words = [word.lower() for word in words_str.split(" ")]
 #     words_occurrences = {}
