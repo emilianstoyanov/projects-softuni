@@ -7,7 +7,7 @@ while True:
         break
 
     (product, price_str, quantity_str) = input_line.split(" ")  # quantity = input_line[0], float(input_line[1], int(input_line[2])
-    price = float(price_str)  # друг начин за вход
+    price = float(price_str) 
     quantity = int(quantity_str)
 
     prices_dict[product] = price
