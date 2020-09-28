@@ -26,14 +26,6 @@ for (key, value) in sorted_dict.items():
 
 
 
-
-
-
-
-
-
-
-
 # reg = {}
 #
 # while True:
